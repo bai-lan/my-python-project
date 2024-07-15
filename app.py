@@ -8,7 +8,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return jsonify({"version": "1.0", "author": "Yagmur Ozden"}), 200
+    return jsonify({"version": "1.0", "author": "Bai Lan"}), 200
 
 if __name__ == '__main__':
     app.run(debug=True)

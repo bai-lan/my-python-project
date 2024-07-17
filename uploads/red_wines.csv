@@ -1,0 +1,4 @@
+name,year,region,price,fixed_acidity,volatile_acidity
+Wine A,2018,Region A,20.0,7.5,0.7
+Wine B,2019,Region B,30.0,8.0,0.6
+Wine C,2020,Region C,25.0,7.2,0.8
